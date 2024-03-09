@@ -1,0 +1,17 @@
+.title{
+    background-color: rgba(255,0,0,0.50);
+}
+
+.big{ /* class */
+    font-size: 32px;
+}
+
+#blue{ /* id */
+    color: blue;
+}
+
+#green{
+    background-color: rgba(0,255,0,.50);
+    font-weight: bold;
+    font-size: 22px;
+}
